@@ -1,0 +1,11 @@
+# F:\NoweProgramowanie\Studia\CPO\project_doors\dataset.yaml
+
+# Ścieżki do danych (relatywne względem tego pliku)
+train: data/images/train
+val: data/images/val
+
+# Liczba klas
+nc: 4
+
+# Nazwy klas w kolejności, w jakiej są użyte w plikach etykiet (0, 1, 2, 3)
+names: ['drzwi', 'nr_sali', 'tabliczka_info', 'apteczka']

@@ -1,0 +1,4 @@
+drzwi
+nr_sali
+tabliczka_info
+apteczka
