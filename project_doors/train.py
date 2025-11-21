@@ -29,9 +29,9 @@ if __name__ == '__main__':
     
     results = model.train(
         data=DATA_YAML_PATH,  # Ścieżka do Twojego pliku konfiguracyjnego
-        epochs=100,           # Liczba epok (możesz zmienić)
-        imgsz=640,            # Rozmiar wejściowy obrazu (standard)
-        batch=16,             # Rozmiar batcha (dostosuj do pamięci GPU)
+        epochs=500,           # Liczba epok (możesz zmienić)
+        imgsz=1024,            # Rozmiar wejściowy obrazu (standard)
+        batch=24,             # Rozmiar batcha (dostosuj do pamięci GPU)
         name='drzwi_projekt_cpov8', # Nazwa katalogu wyjściowego w 'runs/detect'
         workers=0,            # Zmień z 4 na 0, aby tymczasowo wyłączyć multiprocessing!
         device=0            # Odkomentuj, jeśli masz GPU

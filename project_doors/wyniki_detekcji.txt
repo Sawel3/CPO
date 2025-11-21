@@ -1,0 +1,11 @@
+--- Analiza pliku: IMG_7526.jpg [2025-11-21 13:46:11] ---
+Obiekt: nr_sali         | YOLO: 81.03% | Tekst: LID        | OCR Pewność: 41%
+Obiekt: drzwi           | YOLO: 60.47% | Tekst: N/A        | OCR Pewność: 0%
+Obiekt: apteczka        | YOLO: 54.85% | Tekst: N/A        | OCR Pewność: 0%
+--- Analiza pliku: 20251106_170449.jpg [2025-11-21 13:48:41] ---
+Obiekt: drzwi           | YOLO: 94.89% | Tekst: N/A        | OCR Pewność: 0%
+Obiekt: tabliczka_info  | YOLO: 94.23% | Tekst: N/A        | OCR Pewność: 0%
+Obiekt: nr_sali         | YOLO: 86.02% | Tekst: 414        | OCR Pewność: 96%
+--- Analiza pliku: IMG_7467.jpg [2025-11-21 13:52:06] ---
+Obiekt: nr_sali         | YOLO: 85.30% | Tekst: 346        | OCR Pewność: 91%
+Obiekt: drzwi           | YOLO: 81.70% | Tekst: N/A        | OCR Pewność: 0%
