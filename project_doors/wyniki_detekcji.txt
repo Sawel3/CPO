@@ -9,3 +9,362 @@ Obiekt: nr_sali         | YOLO: 86.02% | Tekst: 414        | OCR Pewność: 96%
 --- Analiza pliku: IMG_7467.jpg [2025-11-21 13:52:06] ---
 Obiekt: nr_sali         | YOLO: 85.30% | Tekst: 346        | OCR Pewność: 91%
 Obiekt: drzwi           | YOLO: 81.70% | Tekst: N/A        | OCR Pewność: 0%
+--- Analiza pliku: IMG_7467.jpg [2025-11-21 14:03:20] ---
+Obiekt: nr_sali         | YOLO: 85.30% | Tekst: 346        | OCR Pewność: 91%
+Obiekt: drzwi           | YOLO: 81.70% | Tekst: N/A        | OCR Pewność: 0%
+--- Analiza pliku: IMG_7478.jpg [2025-11-21 14:08:24] ---
+Obiekt: nr_sali         | YOLO: 68.66% | Tekst: ?          | OCR Pewność: 0%
+Obiekt: drzwi           | YOLO: 62.65% | Tekst: N/A        | OCR Pewność: 0%
+--- Analiza pliku: IMG_7478.jpg [2025-11-21 14:10:05] ---
+Obiekt: nr_sali         | YOLO: 68.66% | Tekst: ?          | OCR Pewność: 0%
+Obiekt: drzwi           | YOLO: 62.65% | Tekst: N/A        | OCR Pewność: 0%
+--- Analiza pliku: IMG_7478.jpg [2025-11-21 14:12:25] ---
+Obiekt: nr_sali         | YOLO: 68.66% | Tekst: ?          | OCR Pewność: 0%
+Obiekt: drzwi           | YOLO: 62.65% | Tekst: N/A        | OCR Pewność: 0%
+--- Analiza pliku: IMG_7404.jpg [2025-11-21 14:13:08] ---
+Obiekt: nr_sali         | YOLO: 93.42% | Tekst: ?          | OCR Pewność: 0%
+Obiekt: drzwi           | YOLO: 71.11% | Tekst: N/A        | OCR Pewność: 0%
+
+--- Analiza pliku: IMG_7478.jpg [2025-11-21 14:16:46] ---
+Obiekt: nr_sali         | YOLO: 69% | Tekst: -          | OCR Pewnosc: 0%
+Obiekt: drzwi           | YOLO: 63% | Tekst: -          | OCR Pewnosc: 0%
+
+--- Analiza pliku: IMG_7404.jpg [2025-11-21 14:17:31] ---
+Obiekt: drzwi           | YOLO: 95% | Tekst: -          | OCR Pewnosc: 0%
+Obiekt: apteczka        | YOLO: 95% | Tekst: -          | OCR Pewnosc: 0%
+Obiekt: tabliczka_info  | YOLO: 94% | Tekst: -          | OCR Pewnosc: 0%
+Obiekt: nr_sali         | YOLO: 90% | Tekst: 510        | OCR Pewnosc: 71%
+
+--- Analiza pliku: IMG_7467.jpg [2025-11-21 14:20:21] ---
+Obiekt: nr_sali         | YOLO: 85% | Tekst: 346        | OCR Pewnosc: 91%
+Obiekt: drzwi           | YOLO: 82% | Tekst: -          | OCR Pewnosc: 0%
+
+--- Analiza pliku: IMG_7478.jpg [2025-11-21 14:21:27] ---
+Obiekt: nr_sali         | YOLO: 69% | Tekst: -          | OCR Pewnosc: 0%
+Obiekt: drzwi           | YOLO: 63% | Tekst: -          | OCR Pewnosc: 0%
+
+--- Analiza pliku: 20251106_170449.jpg [2025-11-21 14:21:46] ---
+Obiekt: drzwi           | YOLO: 95% | Tekst: -          | OCR Pewnosc: 0%
+Obiekt: tabliczka_info  | YOLO: 94% | Tekst: -          | OCR Pewnosc: 0%
+Obiekt: nr_sali         | YOLO: 86% | Tekst: 414        | OCR Pewnosc: 96%
+
+--- Analiza pliku: IMG_7411.jpg [2025-11-21 14:23:52] ---
+
+--- Analiza pliku: IMG_7411.jpg [2025-11-21 14:25:13] ---
+Obiekt: nr_sali         | YOLO: 93% | Tekst: -          | OCR Pewnosc: 0%
+Obiekt: drzwi           | YOLO: 92% | Tekst: -          | OCR Pewnosc: 0%
+Obiekt: apteczka        | YOLO: 89% | Tekst: -          | OCR Pewnosc: 0%
+Obiekt: nieznany        | YOLO: 87% | Tekst: -          | OCR Pewnosc: 0%
+Obiekt: apteczka        | YOLO: 80% | Tekst: -          | OCR Pewnosc: 0%
+Obiekt: nr_sali         | YOLO: 46% | Tekst: -          | OCR Pewnosc: 0%
+
+--- Analiza pliku: IMG_7404.jpg [2025-11-21 14:26:52] ---
+Obiekt: nieznany        | YOLO: 94% | Tekst: -          | OCR Pewnosc: 0%
+Obiekt: nr_sali         | YOLO: 93% | Tekst: -          | OCR Pewnosc: 0%
+Obiekt: drzwi           | YOLO: 92% | Tekst: -          | OCR Pewnosc: 0%
+Obiekt: apteczka        | YOLO: 90% | Tekst: -          | OCR Pewnosc: 0%
+
+--- Analiza pliku: IMG_7467.jpg [2025-11-21 14:29:40] ---
+Obiekt: nieznany        | YOLO: 92% | Tekst: -          | OCR Pewnosc: 0%
+Obiekt: apteczka        | YOLO: 90% | Tekst: -          | OCR Pewnosc: 0%
+Obiekt: nr_sali         | YOLO: 76% | Tekst: -          | OCR Pewnosc: 0%
+Obiekt: nr_sali         | YOLO: 70% | Tekst: -          | OCR Pewnosc: 0%
+
+--- Analiza pliku: IMG_7478.jpg [2025-11-21 14:30:21] ---
+Obiekt: nieznany        | YOLO: 90% | Tekst: -          | OCR Pewnosc: 0%
+Obiekt: nr_sali         | YOLO: 90% | Tekst: -          | OCR Pewnosc: 0%
+Obiekt: apteczka        | YOLO: 90% | Tekst: -          | OCR Pewnosc: 0%
+Obiekt: nr_sali         | YOLO: 78% | Tekst: -          | OCR Pewnosc: 0%
+
+--- Analiza pliku: IMG_7478.jpg [2025-11-21 17:48:53] ---
+Obiekt: nieznany        | YOLO: 90% | Tekst: -          | OCR Pewnosc: 0%
+Obiekt: nr_sali         | YOLO: 90% | Tekst: -          | OCR Pewnosc: 0%
+Obiekt: apteczka        | YOLO: 90% | Tekst: -          | OCR Pewnosc: 0%
+Obiekt: nr_sali         | YOLO: 78% | Tekst: -          | OCR Pewnosc: 0%
+
+--- Analiza pliku: IMG_7478.jpg [2025-11-21 17:49:08] ---
+Obiekt: nr_sali         | YOLO: 69% | Tekst: -          | OCR Pewnosc: 0%
+Obiekt: drzwi           | YOLO: 63% | Tekst: -          | OCR Pewnosc: 0%
+
+--- Analiza pliku: IMG_7411.jpg [2025-11-21 17:49:35] ---
+
+--- Analiza pliku: IMG_7404.jpg [2025-11-21 17:49:55] ---
+Obiekt: nr_sali         | YOLO: 93% | Tekst: -          | OCR Pewnosc: 0%
+Obiekt: drzwi           | YOLO: 71% | Tekst: -          | OCR Pewnosc: 0%
+
+--- Analiza pliku: IMG_7478.jpg [2025-11-21 17:50:15] ---
+Obiekt: nr_sali         | YOLO: 69% | Tekst: -          | OCR Pewnosc: 0%
+Obiekt: drzwi           | YOLO: 63% | Tekst: -          | OCR Pewnosc: 0%
+
+--- Analiza pliku: IMG_7404.jpg [2025-11-21 17:50:25] ---
+Obiekt: nr_sali         | YOLO: 93% | Tekst: -          | OCR Pewnosc: 0%
+Obiekt: drzwi           | YOLO: 71% | Tekst: -          | OCR Pewnosc: 0%
+
+--- Analiza pliku: IMG_7467.jpg [2025-11-21 17:50:42] ---
+Obiekt: nr_sali         | YOLO: 85% | Tekst: 346        | OCR Pewnosc: 91%
+Obiekt: drzwi           | YOLO: 82% | Tekst: -          | OCR Pewnosc: 0%
+
+--- Analiza pliku: IMG_7467.jpg [2025-11-21 17:51:02] ---
+Obiekt: nr_sali         | YOLO: 85% | Tekst: 346        | OCR Pewnosc: 91%
+Obiekt: drzwi           | YOLO: 82% | Tekst: -          | OCR Pewnosc: 0%
+--- Analiza pliku: IMG_7467.jpg [2025-11-21 17:51:50] ---
+Obiekt: nr_sali         | YOLO: 85.30% | Tekst: 346        | OCR Pewność: 91%
+Obiekt: drzwi           | YOLO: 81.70% | Tekst: N/A        | OCR Pewność: 0%
+--- Analiza pliku: IMG_7404.jpg [2025-11-21 17:52:57] ---
+Obiekt: nr_sali         | YOLO: 93.42% | Tekst: [Nieczytelne] | OCR Pewność: 0%
+Obiekt: drzwi           | YOLO: 71.11% | Tekst: N/A        | OCR Pewność: 0%
+--- Analiza pliku: IMG_7404.jpg [2025-11-21 17:53:15] ---
+Obiekt: nr_sali         | YOLO: 93.42% | Tekst: [Nieczytelne] | OCR Pewność: 0%
+Obiekt: drzwi           | YOLO: 71.11% | Tekst: N/A        | OCR Pewność: 0%
+--- Analiza pliku: IMG_7411.jpg [2025-11-21 17:53:25] ---
+--- Analiza pliku: IMG_7467.jpg [2025-11-21 17:53:35] ---
+Obiekt: nr_sali         | YOLO: 85.30% | Tekst: 346        | OCR Pewność: 91%
+Obiekt: drzwi           | YOLO: 81.70% | Tekst: N/A        | OCR Pewność: 0%
+--- Analiza pliku: IMG_7478.jpg [2025-11-21 17:53:44] ---
+Obiekt: nr_sali         | YOLO: 68.66% | Tekst: [Nieczytelne] | OCR Pewność: 0%
+Obiekt: drzwi           | YOLO: 62.65% | Tekst: N/A        | OCR Pewność: 0%
+--- Analiza pliku: IMG_7478.jpg [2025-11-21 17:57:50] ---
+Obiekt: nr_sali         | YOLO: 68.66% | Tekst: N/A        | OCR Pewność: 0%
+Obiekt: drzwi           | YOLO: 62.65% | Tekst: N/A        | OCR Pewność: 0%
+--- Analiza pliku: IMG_7478.jpg [2025-11-21 17:59:45] ---
+Obiekt: nr_sali         | YOLO: 68.66% | Tekst: N/A        | OCR Pewność: 0%
+Obiekt: drzwi           | YOLO: 62.65% | Tekst: N/A        | OCR Pewność: 0%
+--- Analiza pliku: IMG_7467.jpg [2025-11-21 18:00:12] ---
+Obiekt: nr_sali         | YOLO: 85.30% | Tekst: N/A        | OCR Pewność: 0%
+Obiekt: drzwi           | YOLO: 81.70% | Tekst: N/A        | OCR Pewność: 0%
+--- Analiza pliku: IMG_7478.jpg [2025-11-21 18:01:02] ---
+Obiekt: nr_sali         | YOLO: 68.66% | Tekst: [Nieczytelne] | OCR Pewność: 0%
+Obiekt: drzwi           | YOLO: 62.65% | Tekst: N/A        | OCR Pewność: 0%
+--- Analiza pliku: IMG_7467.jpg [2025-11-21 18:01:12] ---
+Obiekt: nr_sali         | YOLO: 85.30% | Tekst: 346        | OCR Pewność: 91%
+Obiekt: drzwi           | YOLO: 81.70% | Tekst: N/A        | OCR Pewność: 0%
+--- Analiza pliku: IMG_7467.jpg [2025-11-21 18:05:32] ---
+Obiekt: nr_sali         | YOLO: 85.30% | Tekst: N/A        | OCR Pewność: 0%
+Obiekt: drzwi           | YOLO: 81.70% | Tekst: N/A        | OCR Pewność: 0%
+--- Analiza pliku: IMG_7467.jpg [2025-11-21 18:07:21] ---
+Obiekt: nr_sali         | YOLO: 85.30% | Tekst: N/A        | OCR Pewność: 0%
+Obiekt: drzwi           | YOLO: 81.70% | Tekst: N/A        | OCR Pewność: 0%
+--- Analiza pliku: IMG_7467.jpg [2025-11-21 18:08:25] ---
+--- Analiza pliku: IMG_7467.jpg [2025-11-21 18:10:50] ---
+Obiekt: nr_sali         | YOLO: 85.30% | Tekst: N/A        | OCR Pewność: 0%
+Obiekt: drzwi           | YOLO: 81.70% | Tekst: N/A        | OCR Pewność: 0%
+--- Analiza pliku: IMG_7467.jpg [2025-11-21 18:11:34] ---
+--- Analiza pliku: IMG_7467.jpg [2025-11-21 18:11:50] ---
+Obiekt: nr_sali         | YOLO: 85.30% | Tekst: N/A        | OCR Pewność: 0%
+Obiekt: drzwi           | YOLO: 81.70% | Tekst: N/A        | OCR Pewność: 0%
+--- Analiza pliku: IMG_7467.jpg [2025-11-21 18:14:25] ---
+Obiekt: nr_sali         | YOLO: 85.30% | Tekst: 346        | OCR Pewność: 91%
+Obiekt: drzwi           | YOLO: 81.70% | Tekst: N/A        | OCR Pewność: 0%
+--- Analiza pliku: IMG_7467.jpg [2025-11-21 18:16:33] ---
+--- Analiza pliku: IMG_7467.jpg [2025-11-21 18:17:25] ---
+Obiekt: nr_sali         | YOLO: 85.30% | Tekst: 346        | OCR Pewność: 96%
+Obiekt: drzwi           | YOLO: 81.70% | Tekst: N/A        | OCR Pewność: 0%
+--- Analiza pliku: IMG_7404.jpg [2025-11-21 18:18:13] ---
+Obiekt: nr_sali         | YOLO: 93.42% | Tekst: N/A        | OCR Pewność: 0%
+Obiekt: drzwi           | YOLO: 71.11% | Tekst: N/A        | OCR Pewność: 0%
+--- Analiza pliku: IMG_7411.jpg [2025-11-21 18:18:47] ---
+--- Analiza pliku: IMG_7478.jpg [2025-11-21 18:19:08] ---
+Obiekt: nr_sali         | YOLO: 68.66% | Tekst: 341        | OCR Pewność: 73%
+Obiekt: drzwi           | YOLO: 62.65% | Tekst: N/A        | OCR Pewność: 0%
+--- Analiza pliku: IMG_7478.jpg [2025-11-21 18:22:59] ---
+Obiekt: nr_sali         | YOLO: 68.66% | Tekst: N/A        | OCR Pewność: 0%
+Obiekt: drzwi           | YOLO: 62.65% | Tekst: N/A        | OCR Pewność: 0%
+--- Analiza pliku: IMG_7404.jpg [2025-11-21 18:23:43] ---
+Obiekt: nr_sali         | YOLO: 93.42% | Tekst: N/A        | OCR Pewność: 0%
+Obiekt: drzwi           | YOLO: 71.11% | Tekst: N/A        | OCR Pewność: 0%
+--- Analiza pliku: IMG_7411.jpg [2025-11-21 18:24:08] ---
+--- Analiza pliku: IMG_7467.jpg [2025-11-21 18:24:17] ---
+Obiekt: nr_sali         | YOLO: 85.30% | Tekst: 346        | OCR Pewność: 96%
+Obiekt: drzwi           | YOLO: 81.70% | Tekst: N/A        | OCR Pewność: 0%
+--- Analiza pliku: IMG_7404.jpg [2025-11-21 18:26:18] ---
+Obiekt: nr_sali         | YOLO: 93.42% | Tekst: N/A        | OCR Pewność: 0%
+Obiekt: drzwi           | YOLO: 71.11% | Tekst: N/A        | OCR Pewność: 0%
+--- Analiza pliku: IMG_7467.jpg [2025-11-21 18:26:32] ---
+Obiekt: nr_sali         | YOLO: 85.30% | Tekst: 346        | OCR Pewność: 96%
+Obiekt: drzwi           | YOLO: 81.70% | Tekst: N/A        | OCR Pewność: 0%
+--- Analiza pliku: IMG_7478.jpg [2025-11-21 18:26:44] ---
+Obiekt: nr_sali         | YOLO: 68.66% | Tekst: 341        | OCR Pewność: 73%
+Obiekt: drzwi           | YOLO: 62.65% | Tekst: N/A        | OCR Pewność: 0%
+--- Analiza pliku: IMG_7452.jpg [2025-11-21 18:28:23] ---
+Obiekt: nr_sali         | YOLO: 94.99% | Tekst: N/A        | OCR Pewność: 0%
+Obiekt: drzwi           | YOLO: 72.74% | Tekst: N/A        | OCR Pewność: 0%
+--- Analiza pliku: IMG_7452.jpg [2025-11-21 18:31:00] ---
+Obiekt: nr_sali         | YOLO: 94.99% | Tekst: N/A        | OCR Pewność: 0%
+Obiekt: drzwi           | YOLO: 72.74% | Tekst: N/A        | OCR Pewność: 0%
+--- Analiza pliku: IMG_7452.jpg [2025-11-21 18:34:14] ---
+Obiekt: nr_sali         | YOLO: 94.99% | Tekst: N/A        | OCR Pewność: 0%
+Obiekt: drzwi           | YOLO: 72.74% | Tekst: N/A        | OCR Pewność: 0%
+--- Analiza pliku: IMG_7452.jpg [2025-11-21 18:34:52] ---
+Obiekt: nr_sali         | YOLO: 94.99% | Tekst: N/A        | OCR Pewność: 0%
+Obiekt: drzwi           | YOLO: 72.74% | Tekst: N/A        | OCR Pewność: 0%
+--- Analiza pliku: IMG_7452.jpg [2025-11-21 18:35:13] ---
+Obiekt: nr_sali         | YOLO: 94.99% | Tekst: N/A        | OCR Pewność: 0%
+Obiekt: drzwi           | YOLO: 72.74% | Tekst: N/A        | OCR Pewność: 0%
+--- Analiza pliku: IMG_7452.jpg [2025-11-21 18:35:29] ---
+Obiekt: nr_sali         | YOLO: 94.99% | Tekst: N/A        | OCR Pewność: 0%
+Obiekt: drzwi           | YOLO: 72.74% | Tekst: N/A        | OCR Pewność: 0%
+--- Analiza pliku: IMG_7452.jpg [2025-11-21 18:35:45] ---
+Obiekt: nr_sali         | YOLO: 94.99% | Tekst: N/A        | OCR Pewność: 0%
+Obiekt: drzwi           | YOLO: 72.74% | Tekst: N/A        | OCR Pewność: 0%
+--- Analiza pliku: IMG_7452.jpg [2025-11-21 18:35:58] ---
+Obiekt: nr_sali         | YOLO: 94.99% | Tekst: N/A        | OCR Pewność: 0%
+Obiekt: drzwi           | YOLO: 72.74% | Tekst: N/A        | OCR Pewność: 0%
+--- Analiza pliku: IMG_7452.jpg [2025-11-21 18:36:45] ---
+Obiekt: nr_sali         | YOLO: 94.99% | Tekst: N/A        | OCR Pewność: 0%
+Obiekt: drzwi           | YOLO: 72.74% | Tekst: N/A        | OCR Pewność: 0%
+--- Analiza pliku: IMG_7452.jpg [2025-11-21 18:37:10] ---
+Obiekt: nr_sali         | YOLO: 94.99% | Tekst: N/A        | OCR Pewność: 0%
+Obiekt: drzwi           | YOLO: 72.74% | Tekst: N/A        | OCR Pewność: 0%
+--- Analiza pliku: IMG_7452.jpg [2025-11-21 18:38:39] ---
+Obiekt: nr_sali         | YOLO: 94.99% | Tekst: N/A        | OCR Pewność: 0%
+Obiekt: drzwi           | YOLO: 72.74% | Tekst: N/A        | OCR Pewność: 0%
+--- Analiza pliku: IMG_7452.jpg [2025-11-21 18:39:10] ---
+Obiekt: nr_sali         | YOLO: 94.99% | Tekst: N/A        | OCR Pewność: 0%
+Obiekt: drzwi           | YOLO: 72.74% | Tekst: N/A        | OCR Pewność: 0%
+--- Analiza pliku: IMG_7452.jpg [2025-11-21 18:39:39] ---
+Obiekt: nr_sali         | YOLO: 94.99% | Tekst: N/A        | OCR Pewność: 0%
+Obiekt: drzwi           | YOLO: 72.74% | Tekst: N/A        | OCR Pewność: 0%
+--- Analiza pliku: IMG_7411.jpg [2025-11-21 18:39:56] ---
+--- Analiza pliku: IMG_7404.jpg [2025-11-21 18:40:06] ---
+Obiekt: nr_sali         | YOLO: 93.42% | Tekst: N/A        | OCR Pewność: 0%
+Obiekt: drzwi           | YOLO: 71.11% | Tekst: N/A        | OCR Pewność: 0%
+--- Analiza pliku: IMG_7404.jpg [2025-11-21 18:40:28] ---
+Obiekt: nr_sali         | YOLO: 93.42% | Tekst: 516        | OCR Pewność: 75%
+Obiekt: drzwi           | YOLO: 71.11% | Tekst: N/A        | OCR Pewność: 0%
+--- Analiza pliku: IMG_7404.jpg [2025-11-21 18:40:47] ---
+Obiekt: nr_sali         | YOLO: 93.42% | Tekst: 519        | OCR Pewność: 46%
+Obiekt: drzwi           | YOLO: 71.11% | Tekst: N/A        | OCR Pewność: 0%
+--- Analiza pliku: IMG_7404.jpg [2025-11-21 18:41:00] ---
+Obiekt: nr_sali         | YOLO: 93.42% | Tekst: 510        | OCR Pewność: 76%
+Obiekt: drzwi           | YOLO: 71.11% | Tekst: N/A        | OCR Pewność: 0%
+--- Analiza pliku: IMG_7404.jpg [2025-11-21 18:41:23] ---
+Obiekt: nr_sali         | YOLO: 93.42% | Tekst: O10        | OCR Pewność: 89%
+Obiekt: drzwi           | YOLO: 71.11% | Tekst: N/A        | OCR Pewność: 0%
+--- Analiza pliku: IMG_7404.jpg [2025-11-21 18:41:35] ---
+Obiekt: nr_sali         | YOLO: 93.42% | Tekst: O10        | OCR Pewność: 89%
+Obiekt: drzwi           | YOLO: 71.11% | Tekst: N/A        | OCR Pewność: 0%
+--- Analiza pliku: IMG_7404.jpg [2025-11-21 18:41:47] ---
+Obiekt: nr_sali         | YOLO: 93.42% | Tekst: O10        | OCR Pewność: 50%
+Obiekt: drzwi           | YOLO: 71.11% | Tekst: N/A        | OCR Pewność: 0%
+--- Analiza pliku: IMG_7404.jpg [2025-11-21 18:41:59] ---
+Obiekt: nr_sali         | YOLO: 93.42% | Tekst: 510        | OCR Pewność: 76%
+Obiekt: drzwi           | YOLO: 71.11% | Tekst: N/A        | OCR Pewność: 0%
+--- Analiza pliku: IMG_7467.jpg [2025-11-21 18:42:20] ---
+Obiekt: nr_sali         | YOLO: 85.30% | Tekst: 346        | OCR Pewność: 95%
+Obiekt: drzwi           | YOLO: 81.70% | Tekst: N/A        | OCR Pewność: 0%
+--- Analiza pliku: IMG_7478.jpg [2025-11-21 18:42:35] ---
+Obiekt: nr_sali         | YOLO: 68.66% | Tekst: N/A        | OCR Pewność: 0%
+Obiekt: drzwi           | YOLO: 62.65% | Tekst: N/A        | OCR Pewność: 0%
+--- Analiza pliku: IMG_7478.jpg [2025-11-25 16:36:28] ---
+Obiekt: nr_sali         | YOLO: 86.35% | Tekst: N/A        | OCR Pewność: 0%
+Obiekt: tabliczka_info  | YOLO: 79.47% | Tekst: N/A        | OCR Pewność: 0%
+Obiekt: drzwi           | YOLO: 69.80% | Tekst: N/A        | OCR Pewność: 0%
+--- Analiza pliku: IMG_7411.jpg [2025-11-25 16:37:46] ---
+Obiekt: nr_sali         | YOLO: 81.83% | Tekst: N/A        | OCR Pewność: 0%
+Obiekt: nr_sali         | YOLO: 75.16% | Tekst: 504        | OCR Pewność: 87%
+--- Analiza pliku: IMG_7404.jpg [2025-11-25 16:38:19] ---
+Obiekt: drzwi           | YOLO: 91.97% | Tekst: N/A        | OCR Pewność: 0%
+Obiekt: nr_sali         | YOLO: 89.20% | Tekst: 510        | OCR Pewność: 92%
+Obiekt: apteczka        | YOLO: 87.15% | Tekst: N/A        | OCR Pewność: 0%
+--- Analiza pliku: IMG_7452.jpg [2025-11-25 16:38:53] ---
+Obiekt: drzwi           | YOLO: 88.19% | Tekst: N/A        | OCR Pewność: 0%
+Obiekt: nr_sali         | YOLO: 86.67% | Tekst: N/A        | OCR Pewność: 0%
+Obiekt: tabliczka_info  | YOLO: 85.88% | Tekst: N/A        | OCR Pewność: 0%
+--- Analiza pliku: IMG_7467.jpg [2025-11-25 16:39:13] ---
+Obiekt: tabliczka_info  | YOLO: 90.32% | Tekst: N/A        | OCR Pewność: 0%
+Obiekt: drzwi           | YOLO: 89.69% | Tekst: N/A        | OCR Pewność: 0%
+Obiekt: nr_sali         | YOLO: 87.68% | Tekst: 345        | OCR Pewność: 76%
+--- Analiza pliku: 20251106_170449.jpg [2025-11-25 16:39:48] ---
+Obiekt: tabliczka_info  | YOLO: 89.94% | Tekst: N/A        | OCR Pewność: 0%
+Obiekt: nr_sali         | YOLO: 87.09% | Tekst: 414        | OCR Pewność: 96%
+Obiekt: drzwi           | YOLO: 82.68% | Tekst: N/A        | OCR Pewność: 0%
+--- Analiza pliku: 20251106_170449.jpg [2025-11-26 21:50:39] ---
+Obiekt: tabliczka_info  | YOLO: 89.94% | Tekst: N/A        | OCR Pewność: 0%
+Obiekt: nr_sali         | YOLO: 87.09% | Tekst: 414        | OCR Pewność: 96%
+Obiekt: drzwi           | YOLO: 82.68% | Tekst: N/A        | OCR Pewność: 0%
+--- Analiza pliku: 20251106_170449.jpg [2025-11-26 21:52:59] ---
+Obiekt: tabliczka_info  | YOLO: 89.94% | Tekst: N/A        | OCR Pewność: 0%
+Obiekt: nr_sali         | YOLO: 87.09% | Tekst: 414        | OCR Pewność: 96%
+Obiekt: drzwi           | YOLO: 82.68% | Tekst: N/A        | OCR Pewność: 0%
+Zapisano obraz wyjściowy: 20251106_170449_output.jpg
+--- Analiza pliku: IMG_7404.jpg [2025-11-26 21:54:00] ---
+Obiekt: drzwi           | YOLO: 91.97% | Tekst: N/A        | OCR Pewność: 0%
+Obiekt: nr_sali         | YOLO: 89.20% | Tekst: O16        | OCR Pewność: 79%
+Obiekt: apteczka        | YOLO: 87.15% | Tekst: N/A        | OCR Pewność: 0%
+Zapisano obraz wyjściowy: IMG_7404_output.jpg
+--- Analiza pliku: IMG_7411.jpg [2025-11-26 21:54:22] ---
+Obiekt: nr_sali         | YOLO: 81.83% | Tekst: [Nieczytelne] | OCR Pewność: 0%
+Obiekt: nr_sali         | YOLO: 75.16% | Tekst: [Nieczytelne] | OCR Pewność: 0%
+Zapisano obraz wyjściowy: IMG_7411_output.jpg
+--- Analiza pliku: IMG_7452.jpg [2025-11-26 21:54:48] ---
+Obiekt: drzwi           | YOLO: 88.19% | Tekst: N/A        | OCR Pewność: 0%
+Obiekt: nr_sali         | YOLO: 86.67% | Tekst: [Nieczytelne] | OCR Pewność: 0%
+Obiekt: tabliczka_info  | YOLO: 85.88% | Tekst: N/A        | OCR Pewność: 0%
+Zapisano obraz wyjściowy: IMG_7452_output.jpg
+--- Analiza pliku: IMG_7467.jpg [2025-11-26 21:55:19] ---
+Obiekt: tabliczka_info  | YOLO: 90.32% | Tekst: N/A        | OCR Pewność: 0%
+Obiekt: drzwi           | YOLO: 89.69% | Tekst: N/A        | OCR Pewność: 0%
+Obiekt: nr_sali         | YOLO: 87.68% | Tekst: 346        | OCR Pewność: 70%
+Zapisano obraz wyjściowy: IMG_7467_output.jpg
+--- Analiza pliku: IMG_7478.jpg [2025-11-26 21:55:34] ---
+Obiekt: nr_sali         | YOLO: 86.35% | Tekst: [Nieczytelne] | OCR Pewność: 0%
+Obiekt: tabliczka_info  | YOLO: 79.47% | Tekst: N/A        | OCR Pewność: 0%
+Obiekt: drzwi           | YOLO: 69.80% | Tekst: N/A        | OCR Pewność: 0%
+Zapisano obraz wyjściowy: IMG_7478_output.jpg
+--- Analiza pliku: IMG_7450.jpg [2025-11-26 21:56:41] ---
+Obiekt: tabliczka_info  | YOLO: 91.20% | Tekst: N/A        | OCR Pewność: 0%
+Obiekt: nr_sali         | YOLO: 89.69% | Tekst: 305        | OCR Pewność: 96%
+Obiekt: drzwi           | YOLO: 81.52% | Tekst: N/A        | OCR Pewność: 0%
+Zapisano obraz wyjściowy: IMG_7450_output.jpg
+--- Analiza pliku: IMG_7454.jpg [2025-11-26 21:57:07] ---
+Obiekt: drzwi           | YOLO: 85.76% | Tekst: N/A        | OCR Pewność: 0%
+Obiekt: nr_sali         | YOLO: 68.96% | Tekst: [Nieczytelne] | OCR Pewność: 0%
+Obiekt: tabliczka_info  | YOLO: 59.00% | Tekst: N/A        | OCR Pewność: 0%
+Zapisano obraz wyjściowy: IMG_7454_output.jpg
+--- Analiza pliku: IMG_7471.jpg [2025-11-26 21:57:49] ---
+Obiekt: tabliczka_info  | YOLO: 91.23% | Tekst: N/A        | OCR Pewność: 0%
+Obiekt: nr_sali         | YOLO: 89.60% | Tekst: 344        | OCR Pewność: 91%
+Obiekt: drzwi           | YOLO: 85.12% | Tekst: N/A        | OCR Pewność: 0%
+Zapisano obraz wyjściowy: IMG_7471_output.jpg
+--- Analiza pliku: IMG_7476.jpg [2025-11-26 21:58:17] ---
+Obiekt: nr_sali         | YOLO: 89.65% | Tekst: 342        | OCR Pewność: 91%
+Obiekt: tabliczka_info  | YOLO: 84.47% | Tekst: N/A        | OCR Pewność: 0%
+Zapisano obraz wyjściowy: IMG_7476_output.jpg
+--- Analiza pliku: IMG_7475.jpg [2025-11-26 21:58:49] ---
+Obiekt: nr_sali         | YOLO: 91.74% | Tekst: 343        | OCR Pewność: 95%
+Obiekt: tabliczka_info  | YOLO: 89.34% | Tekst: N/A        | OCR Pewność: 0%
+Obiekt: drzwi           | YOLO: 82.71% | Tekst: N/A        | OCR Pewność: 0%
+Zapisano obraz wyjściowy: IMG_7475_output.jpg
+--- Analiza pliku: IMG_7474.jpg [2025-11-26 21:59:11] ---
+Obiekt: nr_sali         | YOLO: 87.93% | Tekst: [Nieczytelne] | OCR Pewność: 0%
+Obiekt: drzwi           | YOLO: 65.10% | Tekst: N/A        | OCR Pewność: 0%
+Zapisano obraz wyjściowy: IMG_7474_output.jpg
+--- Analiza pliku: IMG_7472.jpg [2025-11-26 21:59:35] ---
+Obiekt: nr_sali         | YOLO: 89.09% | Tekst: 325        | OCR Pewność: 42%
+Obiekt: tabliczka_info  | YOLO: 88.98% | Tekst: N/A        | OCR Pewność: 0%
+Obiekt: drzwi           | YOLO: 81.98% | Tekst: N/A        | OCR Pewność: 0%
+Zapisano obraz wyjściowy: IMG_7472_output.jpg
+--- Analiza pliku: 20251106_171341.jpg [2025-11-26 22:00:56] ---
+Obiekt: drzwi           | YOLO: 92.08% | Tekst: N/A        | OCR Pewność: 0%
+Obiekt: tabliczka_info  | YOLO: 89.18% | Tekst: N/A        | OCR Pewność: 0%
+Obiekt: apteczka        | YOLO: 88.21% | Tekst: N/A        | OCR Pewność: 0%
+Obiekt: nr_sali         | YOLO: 85.45% | Tekst: 228        | OCR Pewność: 45%
+Zapisano obraz wyjściowy: 20251106_171341_output.jpg
+--- Analiza pliku: 20251107_133223.jpg [2025-11-26 22:01:41] ---
+Obiekt: apteczka        | YOLO: 92.73% | Tekst: N/A        | OCR Pewność: 0%
+Obiekt: tabliczka_info  | YOLO: 90.96% | Tekst: N/A        | OCR Pewność: 0%
+Obiekt: drzwi           | YOLO: 90.18% | Tekst: N/A        | OCR Pewność: 0%
+Obiekt: nr_sali         | YOLO: 87.40% | Tekst: [Nieczytelne] | OCR Pewność: 0%
+Zapisano obraz wyjściowy: 20251107_133223_output.jpg
+--- Analiza pliku: 20251107_133223.jpg [2025-11-26 22:04:11] ---
+Obiekt: apteczka        | YOLO: 92.03% | Tekst: N/A        | OCR Pewność: 0%
+Obiekt: tabliczka_info  | YOLO: 91.48% | Tekst: N/A        | OCR Pewność: 0%
+Obiekt: nr_sali         | YOLO: 86.86% | Tekst: [Nieczytelne] | OCR Pewność: 0%
+Obiekt: drzwi           | YOLO: 86.28% | Tekst: N/A        | OCR Pewność: 0%
+Zapisano obraz wyjściowy: 20251107_133223_output.jpg
+--- Analiza pliku: 20251106_171353.jpg [2025-11-26 22:05:03] ---
+Obiekt: drzwi           | YOLO: 90.02% | Tekst: N/A        | OCR Pewność: 0%
+Obiekt: apteczka        | YOLO: 89.72% | Tekst: N/A        | OCR Pewność: 0%
+Obiekt: tabliczka_info  | YOLO: 89.69% | Tekst: N/A        | OCR Pewność: 0%
+Obiekt: nr_sali         | YOLO: 85.91% | Tekst: 299        | OCR Pewność: 86%
+Zapisano obraz wyjściowy: 20251106_171353_output.jpg

@@ -4,6 +4,8 @@ from ultralytics import YOLO
 import pytesseract
 from pytesseract import Output
 from datetime import datetime
+import os
+import math
 
 # KONFIGURACJA
 pytesseract.pytesseract.tesseract_cmd = r'C:/Program Files/Tesseract-OCR/tesseract.exe'
@@ -47,7 +49,7 @@ def process_pipeline(image_path, model_path='best.pt'):
             cls_id = int(box.cls[0])
             yolo_conf = float(box.conf[0])
             class_name = CLASS_NAMES.get(cls_id, 'obj')
-            
+
             roi = img_filtered[y1:y2, x1:x2]
             if roi.size == 0: continue
 
@@ -93,10 +95,9 @@ def process_pipeline(image_path, model_path='best.pt'):
             print(log_line)
             log_to_file(log_line)
 
-            # --- WYMAGANIE: Morfologia (demonstracja na ROI) ---
-            # Żeby zaliczyć punkt z listy wymagań
+            # --- WYMAGANIE: Morfologia ---
             kernel = np.ones((3,3), np.uint8)
-            # Operacja zamknięcia (zamazanie dziur w literach/szumie)
+            # Operacja zamknięcia
             _ = cv2.morphologyEx(roi, cv2.MORPH_CLOSE, kernel)
 
             # Rysowanie
@@ -104,9 +105,15 @@ def process_pipeline(image_path, model_path='best.pt'):
             cv2.putText(output_img, final_label, (x1, y1 - 10), 
                         cv2.FONT_HERSHEY_SIMPLEX, 0.5, (0, 255, 0), 2)
 
+    # --- ZAPIS OBRAZU WYJŚCIOWEGO ---
+    # Domyślnie zapisuje obok pliku wejściowego z sufiksem "_output"
+    save_path = os.path.splitext(image_path)[0] + "_output.jpg"
+    cv2.imwrite(save_path, output_img)
+    log_to_file(f"Zapisano obraz wyjściowy: {save_path}")
+
     cv2.imshow("System Detekcji", output_img)
     cv2.waitKey(0)
     cv2.destroyAllWindows()
 
 if __name__ == "__main__":
-    process_pipeline('IMG_7467.jpg', 'best.pt')
+    process_pipeline('20251106_171353.jpg', 'best2.pt')
