@@ -23,13 +23,13 @@ def process_pipeline(image_path, model_path='best.pt'):
     img = cv2.imread(image_path)
     if img is None: return
 
-    # --- WYMAGANIE: Operacje geometryczne (skalowanie do 1024) ---
+    # --- Operacje geometryczne (skalowanie do 1024) ---
     target_width = 1024
     scale = target_width / img.shape[1]
     h, w = int(img.shape[0] * scale), target_width
     img_resized = cv2.resize(img, (w, h))
 
-    # --- WYMAGANIE: Filtracja ---
+    # --- Filtracja ---
     img_filtered = cv2.GaussianBlur(img_resized, (3, 3), 0)
 
     # 2. Detekcja YOLO
@@ -95,7 +95,7 @@ def process_pipeline(image_path, model_path='best.pt'):
             print(log_line)
             log_to_file(log_line)
 
-            # --- WYMAGANIE: Morfologia ---
+            # --- Morfologia ---
             kernel = np.ones((3,3), np.uint8)
             # Operacja zamknięcia
             _ = cv2.morphologyEx(roi, cv2.MORPH_CLOSE, kernel)
