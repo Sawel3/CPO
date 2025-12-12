@@ -177,4 +177,4 @@ def process_pipeline(image_path, model_path='best.pt'):
     cv2.destroyAllWindows()
 
 if __name__ == "__main__":
-    process_pipeline('IMG_7475.jpg', 'best2.pt')
+    process_pipeline('IMG_7404.jpg', 'best2.pt')

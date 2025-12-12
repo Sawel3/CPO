@@ -520,3 +520,9 @@ Obiekt: nr_sali         | YOLO: 90.73% | Tekst: 343        | OCR Pewność: 82%
 Obiekt: tabliczka_info  | YOLO: 89.38% | Tekst: N/A        | OCR Pewność: 0%
 Obiekt: drzwi           | YOLO: 86.13% | Tekst: N/A        | OCR Pewność: 0%
 Zapisano obraz wyjściowy: output\IMG_7475_output.jpg
+--- Analiza pliku: IMG_7404.jpg [2025-12-12 20:33:37] ---
+Obiekt: apteczka        | YOLO: 92.54% | Tekst: N/A        | OCR Pewność: 0%
+Obiekt: drzwi           | YOLO: 92.25% | Tekst: N/A        | OCR Pewność: 0%
+Obiekt: nr_sali         | YOLO: 87.04% | Tekst: O16        | OCR Pewność: 27%
+Obiekt: tabliczka_info  | YOLO: 64.44% | Tekst: N/A        | OCR Pewność: 0%
+Zapisano obraz wyjściowy: output\IMG_7404_output.jpg
